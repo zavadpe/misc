@@ -1,0 +1,2853 @@
+{
+  "AP": {
+    "Offer": [
+      {
+        "label": "6 month gift subscription for Galaxy Tab S2",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-T815",
+            "SM-T815C",
+            "SM-T815M",
+            "SM-T815N0",
+            "SM-T815Y",
+            "SM-T817",
+            "SM-T817A",
+            "SM-T817R4",
+            "SM-T817T",
+            "SM-T817V",
+            "SM-T817W",
+            "SM-T715",
+            "SM-T715C",
+            "SM-T715M",
+            "SM-T715N0",
+            "SM-T715Y",
+            "SM-T810",
+            "SM-T810X",
+            "SM-T710",
+            "SM-T710X",
+            "SM-T817P",
+            "SM-T717"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Tab S 8.4 and 10.5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-T701",
+            "SM-T705",
+            "SM-T705M",
+            "SM-T705Y",
+            "SM-T705C",
+            "SM-T707A",
+            "SM-T707V",
+            "SM-T801",
+            "SM-T805",
+            "SM-T802",
+            "SM-T805M",
+            "SM-T805W",
+            "SM-T805C",
+            "SM-T805Y",
+            "SM-T807V",
+            "SM-T807P",
+            "SM-T700",
+            "SM-T800",
+            "SM-T800X",
+            "SM-T807R4",
+            "SCT21",
+            "SC-03G",
+            "SM-T557",
+            "SM-T700X",
+            "KEW",
+            "SM-T805K",
+            "SM-T805L",
+            "SM-T805S",
+            "SM-T807A",
+            "SM-T807J",
+            "SM-T807T",
+            "SM-T803"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Tab A",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-P355",
+            "SM-P355C",
+            "SM-P355M",
+            "SM-P355Y",
+            "SM-T355",
+            "SM-T355C",
+            "SM-T355Y",
+            "SM-P555",
+            "SM-P555C",
+            "SM-P555K",
+            "SM-P555L",
+            "SM-P555M",
+            "SM-P555S",
+            "SM-P555Y",
+            "SM-T555",
+            "SM-T555C",
+            "SM-T555Y",
+            "SM-P350",
+            "SM-T350",
+            "SM-T350X",
+            "SM-P550",
+            "SM-T550",
+            "SM-T550X",
+            "SM-T357T",
+            "SM-T357A",
+            "SM-T357W"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy S5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-G900F",
+            "SM-G900H",
+            "SM-G9006W",
+            "SM-G900S",
+            "SM-G900K",
+            "SM-G900L",
+            "SM-G900D",
+            "SM-G900W8",
+            "SM-G9006",
+            "SM-G900V",
+            "SM-G900A",
+            "SM-G900R4",
+            "SM-G9009D",
+            "SM-G9009W",
+            "SM-G900HQ",
+            "SM-G900J",
+            "SM-G900T",
+            "SM-G900P",
+            "SM-G900M",
+            "SM-G9006V",
+            "SM-G900I",
+            "SM-G900FQ",
+            "SM-G900N",
+            "SCL23",
+            "SC-04F",
+            "SGH-N098",
+            "SM-G900T1",
+            "SM-G900X",
+            "SM-G900R6",
+            "SM-G900R7",
+            "GT-G900MD",
+            "SM-G901F",
+            "SM-G900FG",
+            "SM-G900Z",
+            "SM-G900T3",
+            "SM-G900T4",
+            "SC-02G",
+            "SM-G870A",
+            "SM-G870F",
+            "SM-G870W",
+            "SM-G906K",
+            "SM-G906L",
+            "SM-G906S",
+            "SM-G870F0",
+            "SM-G870D",
+            "SM-G903F",
+            "SM-G903M",
+            "SM-G903W",
+            "SM-860P"
+
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy S6 and Galaxy S6 Edge",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SC-05G",
+            "SGH-N520",
+            "SM-G9200",
+            "SM-G9208",
+            "SM-G9209",
+            "SM-G920A",
+            "SM-G920D",
+            "SM-G920F",
+            "SM-G920FD",
+            "SM-G920FQ",
+            "SM-G920I",
+            "SM-G920ID",
+            "SM-G920K",
+            "SM-G920L",
+            "SM-G920P",
+            "SM-G920R4",
+            "SM-G920S",
+            "SM-G920T",
+            "SM-G920V",
+            "SM-G920W8",
+            "SM-G920X",
+            "SM-G920AZ",
+            "SM-G920R6",
+            "SM-G920R7",
+            "SM-G920T1",
+            "404SC",
+            "QUF",
+            "SC-04G",
+            "SCV31",
+            "SGH-N516",
+            "SGH-V504",
+            "SM-G9250",
+            "SM-G925A",
+            "SM-G925D",
+            "SM-G925F",
+            "SM-G925FQ",
+            "SM-G925I",
+            "SM-G925J",
+            "SM-G925K",
+            "SM-G925L",
+            "SM-G925P",
+            "SM-G925R4",
+            "SM-G925S",
+            "SM-G925T",
+            "SM-G925V",
+            "SM-G925W8",
+            "SM-G925X",
+            "SM-G925Z",
+            "SM-G925R6",
+            "SM-G890A",
+            "SM-G925R7",
+            "SM-S906L",
+            "SM-G928R4",
+            "SM-S906L",
+            "SM-G928R4",
+            "SM-G928D",
+            "SM-G928G",
+            "SM-G9287C",
+            "SM-G928Z",
+            "SM-G928V",
+            "SM-G928P",
+            "SM-G928K",
+            "SM-G928S",
+            "SM-G928J",
+            "SM-G928L",
+            "SM-G928A",
+            "SM-G928X",
+            "SM-G928F",
+            "SM-G928C",
+            "SM-G928W8",
+            "SM-G928T",
+            "SM-G9280",
+            "SM-G928I",
+            "SM-G9287",
+            "SM-S906L",
+            "SM-G800A",
+            "SM-G800F",
+            "SM-G800FQ",
+            "SM-G800H",
+            "SM-G800HQ",
+            "SM-G800M",
+            "SM-G800R4",
+            "SM-G800X",
+            "SM-G800Y"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Note 4 and Note 4 Edge",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-N915F",
+            "SM-N915J",
+            "SM-N915V",
+            "SM-N915G",
+            "SM-N915S",
+            "SM-N9150",
+            "SM-N915K",
+            "SM-N915D",
+            "SM-N915A",
+            "SM-N915X",
+            "SM-N910R4",
+            "SM-N910V",
+            "SM-N910A",
+            "SM-N910T",
+            "SM-N910P",
+            "SM-N910XC",
+            "SM-N910H",
+            "SM-N910F",
+            "SM-N910W8",
+            "SM-N910L",
+            "SM-N9108V",
+            "SM-N910K",
+            "SM-N910C",
+            "SM-N9109W",
+            "SM-N910D",
+            "SM-N910J",
+            "SM-N910S",
+            "SM-N910CQ",
+            "SGH-N382",
+            "SM-N910X",
+            "SM-N9106W",
+            "SCL24",
+            "SCH-J999",
+            "SM-N910G",
+            "SM-N9108W",
+            "SC-01G",
+            "SM-N9100",
+            "SM-N910U",
+            "SM-N910T2",
+            "SM-N910T3",
+            "SM-N915T3",
+            "SCH-N382",
+            "SM-N9106V",
+            "SM-N9109V",
+            "SM-N916K",
+            "SM-N916L",
+            "SM-N916S"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+    },
+    {
+        "label": "label 6 month gift subscription for Galaxy Note 5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-N920F",
+            "SM-N920CD",
+            "SM-N920X",
+            "SM-N920T",
+            "SM-N920J",
+            "SM-N920G",
+            "SM-N9208",
+            "SM-N9209",
+            "SM-N9200",
+            "SM-N920P",
+            "SM-N920S",
+            "SM-N920V",
+            "SM-N920L",
+            "SM-N920K",
+            "SM-N920A",
+            "SM-N920R6",
+            "SM-N920R7",
+            "SM-N920D",
+            "SM-N920Z",
+            "SM-N920W8",
+            "SM-N920R4",
+            "SM-N920I",
+            "SM-N920C"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+    }
+    ],
+    "Default": [
+	  {
+        "label": "Monthly subscription (2016)",
+        "productId": "com.economist.android.universal.onemonth_002"
+      },
+      {
+        "label": "Monthly subscription (2016)",
+        "productId": "com.economist.android.universal.onemonth_002"
+      }
+    ]
+  },
+  "IN": {
+    "Offer": [
+       {
+        "label": "6 month gift subscription for Galaxy Tab S2",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-T815",
+            "SM-T815C",
+            "SM-T815M",
+            "SM-T815N0",
+            "SM-T815Y",
+            "SM-T817",
+            "SM-T817A",
+            "SM-T817R4",
+            "SM-T817T",
+            "SM-T817V",
+            "SM-T817W",
+            "SM-T715",
+            "SM-T715C",
+            "SM-T715M",
+            "SM-T715N0",
+            "SM-T715Y",
+            "SM-T810",
+            "SM-T810X",
+            "SM-T710",
+            "SM-T710X",
+            "SM-T817P",
+            "SM-T717"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Tab S 8.4 and 10.5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-T701",
+            "SM-T705",
+            "SM-T705M",
+            "SM-T705Y",
+            "SM-T705C",
+            "SM-T707A",
+            "SM-T707V",
+            "SM-T801",
+            "SM-T805",
+            "SM-T802",
+            "SM-T805M",
+            "SM-T805W",
+            "SM-T805C",
+            "SM-T805Y",
+            "SM-T807V",
+            "SM-T807P",
+            "SM-T700",
+            "SM-T800",
+            "SM-T800X",
+            "SM-T807R4",
+            "SCT21",
+            "SC-03G",
+            "SM-T557",
+            "SM-T700X",
+            "KEW",
+            "SM-T805K",
+            "SM-T805L",
+            "SM-T805S",
+            "SM-T807A",
+            "SM-T807J",
+            "SM-T807T",
+            "SM-T803"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Tab A",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-P355",
+            "SM-P355C",
+            "SM-P355M",
+            "SM-P355Y",
+            "SM-T355",
+            "SM-T355C",
+            "SM-T355Y",
+            "SM-P555",
+            "SM-P555C",
+            "SM-P555K",
+            "SM-P555L",
+            "SM-P555M",
+            "SM-P555S",
+            "SM-P555Y",
+            "SM-T555",
+            "SM-T555C",
+            "SM-T555Y",
+            "SM-P350",
+            "SM-T350",
+            "SM-T350X",
+            "SM-P550",
+            "SM-T550",
+            "SM-T550X",
+            "SM-T357T",
+            "SM-T357A",
+            "SM-T357W"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Note 4 and Note 4 Edge",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-N915F",
+            "SM-N915J",
+            "SM-N915V",
+            "SM-N915G",
+            "SM-N915S",
+            "SM-N9150",
+            "SM-N915K",
+            "SM-N915D",
+            "SM-N915A",
+            "SM-N915X",
+            "SM-N910R4",
+            "SM-N910V",
+            "SM-N910A",
+            "SM-N910T",
+            "SM-N910P",
+            "SM-N910XC",
+            "SM-N910H",
+            "SM-N910F",
+            "SM-N910W8",
+            "SM-N910L",
+            "SM-N9108V",
+            "SM-N910K",
+            "SM-N910C",
+            "SM-N9109W",
+            "SM-N910D",
+            "SM-N910J",
+            "SM-N910S",
+            "SM-N910CQ",
+            "SGH-N382",
+            "SM-N910X",
+            "SM-N9106W",
+            "SCL24",
+            "SCH-J999",
+            "SM-N910G",
+            "SM-N9108W",
+            "SC-01G",
+            "SM-N9100",
+            "SM-N910U",
+            "SM-N910T2",
+            "SM-N910T3",
+            "SM-N915T3",
+            "SCH-N382",
+            "SM-N9106V",
+            "SM-N9109V",
+            "SM-N916K",
+            "SM-N916L",
+            "SM-N916S"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "label 6 month gift subscription for Galaxy Note 5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-N920F",
+            "SM-N920CD",
+            "SM-N920X",
+            "SM-N920T",
+            "SM-N920J",
+            "SM-N920G",
+            "SM-N9208",
+            "SM-N9209",
+            "SM-N9200",
+            "SM-N920P",
+            "SM-N920S",
+            "SM-N920V",
+            "SM-N920L",
+            "SM-N920K",
+            "SM-N920A",
+            "SM-N920R6",
+            "SM-N920R7",
+            "SM-N920D",
+            "SM-N920Z",
+            "SM-N920W8",
+            "SM-N920R4",
+            "SM-N920I",
+            "SM-N920C"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy S5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-G900F",
+            "SM-G900H",
+            "SM-G9006W",
+            "SM-G900S",
+            "SM-G900K",
+            "SM-G900L",
+            "SM-G900D",
+            "SM-G900W8",
+            "SM-G9006",
+            "SM-G900V",
+            "SM-G900A",
+            "SM-G900R4",
+            "SM-G9009D",
+            "SM-G9009W",
+            "SM-G900HQ",
+            "SM-G900J",
+            "SM-G900T",
+            "SM-G900P",
+            "SM-G900M",
+            "SM-G9006V",
+            "SM-G900I",
+            "SM-G900FQ",
+            "SM-G900N",
+            "SCL23",
+            "SC-04F",
+            "SGH-N098",
+            "SM-G900T1",
+            "SM-G900X",
+            "SM-G900R6",
+            "SM-G900R7",
+            "GT-G900MD",
+            "SM-G901F",
+            "SM-G900FG",
+            "SM-G900Z",
+            "SM-G900T3",
+            "SM-G900T4",
+            "SC-02G",
+            "SM-G870A",
+            "SM-G870F",
+            "SM-G870W",
+            "SM-G906K",
+            "SM-G906L",
+            "SM-G906S",
+            "SM-G870F0",
+            "SM-G9006L",
+            "SM-G9006D",
+            "SM-G9009M",
+            "SM-G900AZ",
+            "SM-G900FD",
+            "SM-G900MD",
+            "SM-G9001F",
+            "SM-G902L",
+            "SM-G870F0",
+            "SM-G870D",
+            "SM-G903F",
+            "SM-G903M",
+            "SM-G903W",
+            "SM-860P"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+    },
+    {
+        "label": "6 month gift subscription for Galaxy S6 and Galaxy S6 Edge",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SC-05G",
+            "SGH-N520",
+            "SM-G9200",
+            "SM-G9208",
+            "SM-G9209",
+            "SM-G920A",
+            "SM-G920D",
+            "SM-G920F",
+            "SM-G920FD",
+            "SM-G920FQ",
+            "SM-G920I",
+            "SM-G920ID",
+            "SM-G920K",
+            "SM-G920L",
+            "SM-G920P",
+            "SM-G920R4",
+            "SM-G920S",
+            "SM-G920T",
+            "SM-G920V",
+            "SM-G920W8",
+            "SM-G920X",
+            "SM-G920AZ",
+            "SM-G920R6",
+            "SM-G920R7",
+            "SM-G920T1",
+            "404SC",
+            "QUF",
+            "SC-04G",
+            "SCV31",
+            "SGH-N516",
+            "SGH-V504",
+            "SM-G9250",
+            "SM-G925A",
+            "SM-G925D",
+            "SM-G925F",
+            "SM-G925FQ",
+            "SM-G925I",
+            "SM-G925J",
+            "SM-G925K",
+            "SM-G925L",
+            "SM-G925P",
+            "SM-G925R4",
+            "SM-G925S",
+            "SM-G925T",
+            "SM-G925V",
+            "SM-G925W8",
+            "SM-G925X",
+            "SM-G925Z",
+            "SM-G925R6",
+            "SM-G890A",
+            "SM-G925R7",
+            "SM-S906L",
+            "SM-G928R4",
+            "SM-G928D",
+            "SM-G928G",
+            "SM-G9287C",
+            "SM-G928Z",
+            "SM-G928V",
+            "SM-G928P",
+            "SM-G928K",
+            "SM-G928S",
+            "SM-G928J",
+            "SM-G928L",
+            "SM-G928A",
+            "SM-G928X",
+            "SM-G928F",
+            "SM-G928C",
+            "SM-G928W8",
+            "SM-G928T",
+            "SM-G9280",
+            "SM-G928I",
+            "SM-G9287",
+            "SM-S906L"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      }
+    ],
+    "Default": []
+  },
+  "NA": {
+    "Offer": [
+       {
+        "label": "6 month gift subscription for Galaxy Tab S2",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-T815",
+            "SM-T815C",
+            "SM-T815M",
+            "SM-T815N0",
+            "SM-T815Y",
+            "SM-T817",
+            "SM-T817A",
+            "SM-T817R4",
+            "SM-T817T",
+            "SM-T817V",
+            "SM-T817W",
+            "SM-T715",
+            "SM-T715C",
+            "SM-T715M",
+            "SM-T715N0",
+            "SM-T715Y",
+            "SM-T810",
+            "SM-T810X",
+            "SM-T710",
+            "SM-T710X",
+            "SM-T817P",
+            "SM-T717"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Tab S 8.4 and 10.5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-T701",
+            "SM-T705",
+            "SM-T705M",
+            "SM-T705Y",
+            "SM-T705C",
+            "SM-T707A",
+            "SM-T707V",
+            "SM-T801",
+            "SM-T805",
+            "SM-T802",
+            "SM-T805M",
+            "SM-T805W",
+            "SM-T805C",
+            "SM-T805Y",
+            "SM-T807V",
+            "SM-T807P",
+            "SM-T700",
+            "SM-T800",
+            "SM-T800X",
+            "SM-T807R4",
+            "SCT21",
+            "SC-03G",
+            "SM-T557",
+            "SM-T700X",
+            "KEW",
+            "SM-T805K",
+            "SM-T805L",
+            "SM-T805S",
+            "SM-T807A",
+            "SM-T807J",
+            "SM-T807T",
+            "SM-T803"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Tab A",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-P355",
+            "SM-P355C",
+            "SM-P355M",
+            "SM-P355Y",
+            "SM-T355",
+            "SM-T355C",
+            "SM-T355Y",
+            "SM-P555",
+            "SM-P555C",
+            "SM-P555K",
+            "SM-P555L",
+            "SM-P555M",
+            "SM-P555S",
+            "SM-P555Y",
+            "SM-T555",
+            "SM-T555C",
+            "SM-T555Y",
+            "SM-P350",
+            "SM-T350",
+            "SM-T350X",
+            "SM-P550",
+            "SM-T550",
+            "SM-T550X",
+            "SM-T357T",
+            "SM-T357A",
+            "SM-T357W"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Note 4 and Note 4 Edge",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-N915F",
+            "SM-N915J",
+            "SM-N915V",
+            "SM-N915G",
+            "SM-N915S",
+            "SM-N9150",
+            "SM-N915K",
+            "SM-N915D",
+            "SM-N915A",
+            "SM-N915X",
+            "SM-N910R4",
+            "SM-N910V",
+            "SM-N910A",
+            "SM-N910T",
+            "SM-N910P",
+            "SM-N910XC",
+            "SM-N910H",
+            "SM-N910F",
+            "SM-N910W8",
+            "SM-N910L",
+            "SM-N9108V",
+            "SM-N910K",
+            "SM-N910C",
+            "SM-N9109W",
+            "SM-N910D",
+            "SM-N910J",
+            "SM-N910S",
+            "SM-N910CQ",
+            "SGH-N382",
+            "SM-N910X",
+            "SM-N9106W",
+            "SCL24",
+            "SCH-J999",
+            "SM-N910G",
+            "SM-N9108W",
+            "SC-01G",
+            "SM-N9100",
+            "SM-N910U",
+            "SM-N910T2",
+            "SM-N910T3",
+            "SM-N915T3",
+            "SCH-N382",
+            "SM-N9106V",
+            "SM-N9109V",
+            "SM-N916K",
+            "SM-N916L",
+            "SM-N916S"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "label 6 month gift subscription for Galaxy Note 5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-N920F",
+            "SM-N920CD",
+            "SM-N920X",
+            "SM-N920T",
+            "SM-N920J",
+            "SM-N920G",
+            "SM-N9208",
+            "SM-N9209",
+            "SM-N9200",
+            "SM-N920P",
+            "SM-N920S",
+            "SM-N920V",
+            "SM-N920L",
+            "SM-N920K",
+            "SM-N920A",
+            "SM-N920R6",
+            "SM-N920R7",
+            "SM-N920D",
+            "SM-N920Z",
+            "SM-N920W8",
+            "SM-N920R4",
+            "SM-N920I",
+            "SM-N920C"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy S5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-G900F",
+            "SM-G900H",
+            "SM-G9006W",
+            "SM-G900S",
+            "SM-G900K",
+            "SM-G900L",
+            "SM-G900D",
+            "SM-G900W8",
+            "SM-G9006",
+            "SM-G900V",
+            "SM-G900A",
+            "SM-G900R4",
+            "SM-G9009D",
+            "SM-G9009W",
+            "SM-G900HQ",
+            "SM-G900J",
+            "SM-G900T",
+            "SM-G900P",
+            "SM-G900M",
+            "SM-G9006V",
+            "SM-G900I",
+            "SM-G900FQ",
+            "SM-G900N",
+            "SCL23",
+            "SC-04F",
+            "SGH-N098",
+            "SM-G900T1",
+            "SM-G900X",
+            "SM-G900R6",
+            "SM-G900R7",
+            "GT-G900MD",
+            "SM-G901F",
+            "SM-G900FG",
+            "SM-G900Z",
+            "SM-G900T3",
+            "SM-G900T4",
+            "SC-02G",
+            "SM-G870A",
+            "SM-G870F",
+            "SM-G870W",
+            "SM-G906K",
+            "SM-G906L",
+            "SM-G906S",
+            "SM-G870F0",
+            "SM-G9006L",
+            "SM-G9006D",
+            "SM-G9009M",
+            "SM-G900AZ",
+            "SM-G900FD",
+            "SM-G900MD",
+            "SM-G9001F",
+            "SM-G902L",
+            "SM-G870F0",
+            "SM-G870D",
+            "SM-G903F",
+            "SM-G903M",
+            "SM-G903W",
+            "SM-860P"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+    },
+    {
+        "label": "6 month gift subscription for Galaxy S6 and Galaxy S6 Edge",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SC-05G",
+            "SGH-N520",
+            "SM-G9200",
+            "SM-G9208",
+            "SM-G9209",
+            "SM-G920A",
+            "SM-G920D",
+            "SM-G920F",
+            "SM-G920FD",
+            "SM-G920FQ",
+            "SM-G920I",
+            "SM-G920ID",
+            "SM-G920K",
+            "SM-G920L",
+            "SM-G920P",
+            "SM-G920R4",
+            "SM-G920S",
+            "SM-G920T",
+            "SM-G920V",
+            "SM-G920W8",
+            "SM-G920X",
+            "SM-G920AZ",
+            "SM-G920R6",
+            "SM-G920R7",
+            "SM-G920T1",
+            "404SC",
+            "QUF",
+            "SC-04G",
+            "SCV31",
+            "SGH-N516",
+            "SGH-V504",
+            "SM-G9250",
+            "SM-G925A",
+            "SM-G925D",
+            "SM-G925F",
+            "SM-G925FQ",
+            "SM-G925I",
+            "SM-G925J",
+            "SM-G925K",
+            "SM-G925L",
+            "SM-G925P",
+            "SM-G925R4",
+            "SM-G925S",
+            "SM-G925T",
+            "SM-G925V",
+            "SM-G925W8",
+            "SM-G925X",
+            "SM-G925Z",
+            "SM-G925R6",
+            "SM-G890A",
+            "SM-G925R7",
+            "SM-S906L",
+            "SM-G928R4",
+            "SM-G928D",
+            "SM-G928G",
+            "SM-G9287C",
+            "SM-G928Z",
+            "SM-G928V",
+            "SM-G928P",
+            "SM-G928K",
+            "SM-G928S",
+            "SM-G928J",
+            "SM-G928L",
+            "SM-G928A",
+            "SM-G928X",
+            "SM-G928F",
+            "SM-G928C",
+            "SM-G928W8",
+            "SM-G928T",
+            "SM-G9280",
+            "SM-G928I",
+            "SM-G9287",
+            "SM-S906L"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      }
+    ],
+    "Default": [
+      {
+        "label": "Monthly subscription New (2016)",
+        "productId": "com.economist.android.universal.onemonth_002"
+      },
+      {
+        "label": "Annual subscription (2016)",
+        "productId": "com.economist.android.universal.oneyear_002"
+      }
+    ]
+  },
+  "UK": {
+    "Offer": [
+       {
+        "label": "6 month gift subscription for Galaxy Tab S2",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-T815",
+            "SM-T815C",
+            "SM-T815M",
+            "SM-T815N0",
+            "SM-T815Y",
+            "SM-T817",
+            "SM-T817A",
+            "SM-T817R4",
+            "SM-T817T",
+            "SM-T817V",
+            "SM-T817W",
+            "SM-T715",
+            "SM-T715C",
+            "SM-T715M",
+            "SM-T715N0",
+            "SM-T715Y",
+            "SM-T810",
+            "SM-T810X",
+            "SM-T710",
+            "SM-T710X",
+            "SM-T817P",
+            "SM-T717"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Tab S 8.4 and 10.5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-T701",
+            "SM-T705",
+            "SM-T705M",
+            "SM-T705Y",
+            "SM-T705C",
+            "SM-T707A",
+            "SM-T707V",
+            "SM-T801",
+            "SM-T805",
+            "SM-T802",
+            "SM-T805M",
+            "SM-T805W",
+            "SM-T805C",
+            "SM-T805Y",
+            "SM-T807V",
+            "SM-T807P",
+            "SM-T700",
+            "SM-T800",
+            "SM-T800X",
+            "SM-T807R4",
+            "SCT21",
+            "SC-03G",
+            "SM-T557",
+            "SM-T700X",
+            "KEW",
+            "SM-T805K",
+            "SM-T805L",
+            "SM-T805S",
+            "SM-T807A",
+            "SM-T807J",
+            "SM-T807T",
+            "SM-T803"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Tab A",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-P355",
+            "SM-P355C",
+            "SM-P355M",
+            "SM-P355Y",
+            "SM-T355",
+            "SM-T355C",
+            "SM-T355Y",
+            "SM-P555",
+            "SM-P555C",
+            "SM-P555K",
+            "SM-P555L",
+            "SM-P555M",
+            "SM-P555S",
+            "SM-P555Y",
+            "SM-T555",
+            "SM-T555C",
+            "SM-T555Y",
+            "SM-P350",
+            "SM-T350",
+            "SM-T350X",
+            "SM-P550",
+            "SM-T550",
+            "SM-T550X",
+            "SM-T357T",
+            "SM-T357A",
+            "SM-T357W"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Note 4 and Note 4 Edge",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-N915F",
+            "SM-N915J",
+            "SM-N915V",
+            "SM-N915G",
+            "SM-N915S",
+            "SM-N9150",
+            "SM-N915K",
+            "SM-N915D",
+            "SM-N915A",
+            "SM-N915X",
+            "SM-N910R4",
+            "SM-N910V",
+            "SM-N910A",
+            "SM-N910T",
+            "SM-N910P",
+            "SM-N910XC",
+            "SM-N910H",
+            "SM-N910F",
+            "SM-N910W8",
+            "SM-N910L",
+            "SM-N9108V",
+            "SM-N910K",
+            "SM-N910C",
+            "SM-N9109W",
+            "SM-N910D",
+            "SM-N910J",
+            "SM-N910S",
+            "SM-N910CQ",
+            "SGH-N382",
+            "SM-N910X",
+            "SM-N9106W",
+            "SCL24",
+            "SCH-J999",
+            "SM-N910G",
+            "SM-N9108W",
+            "SC-01G",
+            "SM-N9100",
+            "SM-N910U",
+            "SM-N910T2",
+            "SM-N910T3",
+            "SM-N915T3",
+            "SCH-N382",
+            "SM-N9106V",
+            "SM-N9109V",
+            "SM-N916K",
+            "SM-N916L",
+            "SM-N916S"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "label 6 month gift subscription for Galaxy Note 5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-N920F",
+            "SM-N920CD",
+            "SM-N920X",
+            "SM-N920T",
+            "SM-N920J",
+            "SM-N920G",
+            "SM-N9208",
+            "SM-N9209",
+            "SM-N9200",
+            "SM-N920P",
+            "SM-N920S",
+            "SM-N920V",
+            "SM-N920L",
+            "SM-N920K",
+            "SM-N920A",
+            "SM-N920R6",
+            "SM-N920R7",
+            "SM-N920D",
+            "SM-N920Z",
+            "SM-N920W8",
+            "SM-N920R4",
+            "SM-N920I",
+            "SM-N920C"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy S5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-G900F",
+            "SM-G900H",
+            "SM-G9006W",
+            "SM-G900S",
+            "SM-G900K",
+            "SM-G900L",
+            "SM-G900D",
+            "SM-G900W8",
+            "SM-G9006",
+            "SM-G900V",
+            "SM-G900A",
+            "SM-G900R4",
+            "SM-G9009D",
+            "SM-G9009W",
+            "SM-G900HQ",
+            "SM-G900J",
+            "SM-G900T",
+            "SM-G900P",
+            "SM-G900M",
+            "SM-G9006V",
+            "SM-G900I",
+            "SM-G900FQ",
+            "SM-G900N",
+            "SCL23",
+            "SC-04F",
+            "SGH-N098",
+            "SM-G900T1",
+            "SM-G900X",
+            "SM-G900R6",
+            "SM-G900R7",
+            "GT-G900MD",
+            "SM-G901F",
+            "SM-G900FG",
+            "SM-G900Z",
+            "SM-G900T3",
+            "SM-G900T4",
+            "SC-02G",
+            "SM-G870A",
+            "SM-G870F",
+            "SM-G870W",
+            "SM-G906K",
+            "SM-G906L",
+            "SM-G906S",
+            "SM-G870F0",
+            "SM-G9006L",
+            "SM-G9006D",
+            "SM-G9009M",
+            "SM-G900AZ",
+            "SM-G900FD",
+            "SM-G900MD",
+            "SM-G9001F",
+            "SM-G902L",
+            "SM-G870F0",
+            "SM-G870D",
+            "SM-G903F",
+            "SM-G903M",
+            "SM-G903W",
+            "SM-860P"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+    },
+    {
+        "label": "6 month gift subscription for Galaxy S6 and Galaxy S6 Edge",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SC-05G",
+            "SGH-N520",
+            "SM-G9200",
+            "SM-G9208",
+            "SM-G9209",
+            "SM-G920A",
+            "SM-G920D",
+            "SM-G920F",
+            "SM-G920FD",
+            "SM-G920FQ",
+            "SM-G920I",
+            "SM-G920ID",
+            "SM-G920K",
+            "SM-G920L",
+            "SM-G920P",
+            "SM-G920R4",
+            "SM-G920S",
+            "SM-G920T",
+            "SM-G920V",
+            "SM-G920W8",
+            "SM-G920X",
+            "SM-G920AZ",
+            "SM-G920R6",
+            "SM-G920R7",
+            "SM-G920T1",
+            "404SC",
+            "QUF",
+            "SC-04G",
+            "SCV31",
+            "SGH-N516",
+            "SGH-V504",
+            "SM-G9250",
+            "SM-G925A",
+            "SM-G925D",
+            "SM-G925F",
+            "SM-G925FQ",
+            "SM-G925I",
+            "SM-G925J",
+            "SM-G925K",
+            "SM-G925L",
+            "SM-G925P",
+            "SM-G925R4",
+            "SM-G925S",
+            "SM-G925T",
+            "SM-G925V",
+            "SM-G925W8",
+            "SM-G925X",
+            "SM-G925Z",
+            "SM-G925R6",
+            "SM-G890A",
+            "SM-G925R7",
+            "SM-S906L",
+            "SM-G928R4",
+            "SM-G928D",
+            "SM-G928G",
+            "SM-G9287C",
+            "SM-G928Z",
+            "SM-G928V",
+            "SM-G928P",
+            "SM-G928K",
+            "SM-G928S",
+            "SM-G928J",
+            "SM-G928L",
+            "SM-G928A",
+            "SM-G928X",
+            "SM-G928F",
+            "SM-G928C",
+            "SM-G928W8",
+            "SM-G928T",
+            "SM-G9280",
+            "SM-G928I",
+            "SM-G9287",
+            "SM-S906L"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      }
+    ],
+    "Default": []
+  },
+  "LA": {
+    "Offer": [
+       {
+        "label": "6 month gift subscription for Galaxy Tab S2",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-T815",
+            "SM-T815C",
+            "SM-T815M",
+            "SM-T815N0",
+            "SM-T815Y",
+            "SM-T817",
+            "SM-T817A",
+            "SM-T817R4",
+            "SM-T817T",
+            "SM-T817V",
+            "SM-T817W",
+            "SM-T715",
+            "SM-T715C",
+            "SM-T715M",
+            "SM-T715N0",
+            "SM-T715Y",
+            "SM-T810",
+            "SM-T810X",
+            "SM-T710",
+            "SM-T710X",
+            "SM-T817P",
+            "SM-T717"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Tab S 8.4 and 10.5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-T701",
+            "SM-T705",
+            "SM-T705M",
+            "SM-T705Y",
+            "SM-T705C",
+            "SM-T707A",
+            "SM-T707V",
+            "SM-T801",
+            "SM-T805",
+            "SM-T802",
+            "SM-T805M",
+            "SM-T805W",
+            "SM-T805C",
+            "SM-T805Y",
+            "SM-T807V",
+            "SM-T807P",
+            "SM-T700",
+            "SM-T800",
+            "SM-T800X",
+            "SM-T807R4",
+            "SCT21",
+            "SC-03G",
+            "SM-T557",
+            "SM-T700X",
+            "KEW",
+            "SM-T805K",
+            "SM-T805L",
+            "SM-T805S",
+            "SM-T807A",
+            "SM-T807J",
+            "SM-T807T",
+            "SM-T803"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Tab A",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-P355",
+            "SM-P355C",
+            "SM-P355M",
+            "SM-P355Y",
+            "SM-T355",
+            "SM-T355C",
+            "SM-T355Y",
+            "SM-P555",
+            "SM-P555C",
+            "SM-P555K",
+            "SM-P555L",
+            "SM-P555M",
+            "SM-P555S",
+            "SM-P555Y",
+            "SM-T555",
+            "SM-T555C",
+            "SM-T555Y",
+            "SM-P350",
+            "SM-T350",
+            "SM-T350X",
+            "SM-P550",
+            "SM-T550",
+            "SM-T550X",
+            "SM-T357T",
+            "SM-T357A",
+            "SM-T357W"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Note 4 and Note 4 Edge",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-N915F",
+            "SM-N915J",
+            "SM-N915V",
+            "SM-N915G",
+            "SM-N915S",
+            "SM-N9150",
+            "SM-N915K",
+            "SM-N915D",
+            "SM-N915A",
+            "SM-N915X",
+            "SM-N910R4",
+            "SM-N910V",
+            "SM-N910A",
+            "SM-N910T",
+            "SM-N910P",
+            "SM-N910XC",
+            "SM-N910H",
+            "SM-N910F",
+            "SM-N910W8",
+            "SM-N910L",
+            "SM-N9108V",
+            "SM-N910K",
+            "SM-N910C",
+            "SM-N9109W",
+            "SM-N910D",
+            "SM-N910J",
+            "SM-N910S",
+            "SM-N910CQ",
+            "SGH-N382",
+            "SM-N910X",
+            "SM-N9106W",
+            "SCL24",
+            "SCH-J999",
+            "SM-N910G",
+            "SM-N9108W",
+            "SC-01G",
+            "SM-N9100",
+            "SM-N910U",
+            "SM-N910T2",
+            "SM-N910T3",
+            "SM-N915T3",
+            "SCH-N382",
+            "SM-N9106V",
+            "SM-N9109V",
+            "SM-N916K",
+            "SM-N916L",
+            "SM-N916S"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "label 6 month gift subscription for Galaxy Note 5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-N920F",
+            "SM-N920CD",
+            "SM-N920X",
+            "SM-N920T",
+            "SM-N920J",
+            "SM-N920G",
+            "SM-N9208",
+            "SM-N9209",
+            "SM-N9200",
+            "SM-N920P",
+            "SM-N920S",
+            "SM-N920V",
+            "SM-N920L",
+            "SM-N920K",
+            "SM-N920A",
+            "SM-N920R6",
+            "SM-N920R7",
+            "SM-N920D",
+            "SM-N920Z",
+            "SM-N920W8",
+            "SM-N920R4",
+            "SM-N920I",
+            "SM-N920C"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy S5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-G900F",
+            "SM-G900H",
+            "SM-G9006W",
+            "SM-G900S",
+            "SM-G900K",
+            "SM-G900L",
+            "SM-G900D",
+            "SM-G900W8",
+            "SM-G9006",
+            "SM-G900V",
+            "SM-G900A",
+            "SM-G900R4",
+            "SM-G9009D",
+            "SM-G9009W",
+            "SM-G900HQ",
+            "SM-G900J",
+            "SM-G900T",
+            "SM-G900P",
+            "SM-G900M",
+            "SM-G9006V",
+            "SM-G900I",
+            "SM-G900FQ",
+            "SM-G900N",
+            "SCL23",
+            "SC-04F",
+            "SGH-N098",
+            "SM-G900T1",
+            "SM-G900X",
+            "SM-G900R6",
+            "SM-G900R7",
+            "GT-G900MD",
+            "SM-G901F",
+            "SM-G900FG",
+            "SM-G900Z",
+            "SM-G900T3",
+            "SM-G900T4",
+            "SC-02G",
+            "SM-G870A",
+            "SM-G870F",
+            "SM-G870W",
+            "SM-G906K",
+            "SM-G906L",
+            "SM-G906S",
+            "SM-G870F0",
+            "SM-G9006L",
+            "SM-G9006D",
+            "SM-G9009M",
+            "SM-G900AZ",
+            "SM-G900FD",
+            "SM-G900MD",
+            "SM-G9001F",
+            "SM-G902L",
+            "SM-G870F0",
+            "SM-G870D",
+            "SM-G903F",
+            "SM-G903M",
+            "SM-G903W",
+            "SM-860P"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+    },
+    {
+        "label": "6 month gift subscription for Galaxy S6 and Galaxy S6 Edge",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SC-05G",
+            "SGH-N520",
+            "SM-G9200",
+            "SM-G9208",
+            "SM-G9209",
+            "SM-G920A",
+            "SM-G920D",
+            "SM-G920F",
+            "SM-G920FD",
+            "SM-G920FQ",
+            "SM-G920I",
+            "SM-G920ID",
+            "SM-G920K",
+            "SM-G920L",
+            "SM-G920P",
+            "SM-G920R4",
+            "SM-G920S",
+            "SM-G920T",
+            "SM-G920V",
+            "SM-G920W8",
+            "SM-G920X",
+            "SM-G920AZ",
+            "SM-G920R6",
+            "SM-G920R7",
+            "SM-G920T1",
+            "404SC",
+            "QUF",
+            "SC-04G",
+            "SCV31",
+            "SGH-N516",
+            "SGH-V504",
+            "SM-G9250",
+            "SM-G925A",
+            "SM-G925D",
+            "SM-G925F",
+            "SM-G925FQ",
+            "SM-G925I",
+            "SM-G925J",
+            "SM-G925K",
+            "SM-G925L",
+            "SM-G925P",
+            "SM-G925R4",
+            "SM-G925S",
+            "SM-G925T",
+            "SM-G925V",
+            "SM-G925W8",
+            "SM-G925X",
+            "SM-G925Z",
+            "SM-G925R6",
+            "SM-G890A",
+            "SM-G925R7",
+            "SM-S906L",
+            "SM-G928R4",
+            "SM-G928D",
+            "SM-G928G",
+            "SM-G9287C",
+            "SM-G928Z",
+            "SM-G928V",
+            "SM-G928P",
+            "SM-G928K",
+            "SM-G928S",
+            "SM-G928J",
+            "SM-G928L",
+            "SM-G928A",
+            "SM-G928X",
+            "SM-G928F",
+            "SM-G928C",
+            "SM-G928W8",
+            "SM-G928T",
+            "SM-G9280",
+            "SM-G928I",
+            "SM-G9287",
+            "SM-S906L"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      }
+    ],
+    "Default": []
+  },
+  "ME": {
+    "Offer": [
+       {
+        "label": "6 month gift subscription for Galaxy Tab S2",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-T815",
+            "SM-T815C",
+            "SM-T815M",
+            "SM-T815N0",
+            "SM-T815Y",
+            "SM-T817",
+            "SM-T817A",
+            "SM-T817R4",
+            "SM-T817T",
+            "SM-T817V",
+            "SM-T817W",
+            "SM-T715",
+            "SM-T715C",
+            "SM-T715M",
+            "SM-T715N0",
+            "SM-T715Y",
+            "SM-T810",
+            "SM-T810X",
+            "SM-T710",
+            "SM-T710X",
+            "SM-T817P",
+            "SM-T717"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Tab S 8.4 and 10.5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-T701",
+            "SM-T705",
+            "SM-T705M",
+            "SM-T705Y",
+            "SM-T705C",
+            "SM-T707A",
+            "SM-T707V",
+            "SM-T801",
+            "SM-T805",
+            "SM-T802",
+            "SM-T805M",
+            "SM-T805W",
+            "SM-T805C",
+            "SM-T805Y",
+            "SM-T807V",
+            "SM-T807P",
+            "SM-T700",
+            "SM-T800",
+            "SM-T800X",
+            "SM-T807R4",
+            "SCT21",
+            "SC-03G",
+            "SM-T557",
+            "SM-T700X",
+            "KEW",
+            "SM-T805K",
+            "SM-T805L",
+            "SM-T805S",
+            "SM-T807A",
+            "SM-T807J",
+            "SM-T807T",
+            "SM-T803"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Tab A",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-P355",
+            "SM-P355C",
+            "SM-P355M",
+            "SM-P355Y",
+            "SM-T355",
+            "SM-T355C",
+            "SM-T355Y",
+            "SM-P555",
+            "SM-P555C",
+            "SM-P555K",
+            "SM-P555L",
+            "SM-P555M",
+            "SM-P555S",
+            "SM-P555Y",
+            "SM-T555",
+            "SM-T555C",
+            "SM-T555Y",
+            "SM-P350",
+            "SM-T350",
+            "SM-T350X",
+            "SM-P550",
+            "SM-T550",
+            "SM-T550X",
+            "SM-T357T",
+            "SM-T357A",
+            "SM-T357W"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Note 4 and Note 4 Edge",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-N915F",
+            "SM-N915J",
+            "SM-N915V",
+            "SM-N915G",
+            "SM-N915S",
+            "SM-N9150",
+            "SM-N915K",
+            "SM-N915D",
+            "SM-N915A",
+            "SM-N915X",
+            "SM-N910R4",
+            "SM-N910V",
+            "SM-N910A",
+            "SM-N910T",
+            "SM-N910P",
+            "SM-N910XC",
+            "SM-N910H",
+            "SM-N910F",
+            "SM-N910W8",
+            "SM-N910L",
+            "SM-N9108V",
+            "SM-N910K",
+            "SM-N910C",
+            "SM-N9109W",
+            "SM-N910D",
+            "SM-N910J",
+            "SM-N910S",
+            "SM-N910CQ",
+            "SGH-N382",
+            "SM-N910X",
+            "SM-N9106W",
+            "SCL24",
+            "SCH-J999",
+            "SM-N910G",
+            "SM-N9108W",
+            "SC-01G",
+            "SM-N9100",
+            "SM-N910U",
+            "SM-N910T2",
+            "SM-N910T3",
+            "SM-N915T3",
+            "SCH-N382",
+            "SM-N9106V",
+            "SM-N9109V",
+            "SM-N916K",
+            "SM-N916L",
+            "SM-N916S"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "label 6 month gift subscription for Galaxy Note 5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-N920F",
+            "SM-N920CD",
+            "SM-N920X",
+            "SM-N920T",
+            "SM-N920J",
+            "SM-N920G",
+            "SM-N9208",
+            "SM-N9209",
+            "SM-N9200",
+            "SM-N920P",
+            "SM-N920S",
+            "SM-N920V",
+            "SM-N920L",
+            "SM-N920K",
+            "SM-N920A",
+            "SM-N920R6",
+            "SM-N920R7",
+            "SM-N920D",
+            "SM-N920Z",
+            "SM-N920W8",
+            "SM-N920R4",
+            "SM-N920I",
+            "SM-N920C"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy S5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-G900F",
+            "SM-G900H",
+            "SM-G9006W",
+            "SM-G900S",
+            "SM-G900K",
+            "SM-G900L",
+            "SM-G900D",
+            "SM-G900W8",
+            "SM-G9006",
+            "SM-G900V",
+            "SM-G900A",
+            "SM-G900R4",
+            "SM-G9009D",
+            "SM-G9009W",
+            "SM-G900HQ",
+            "SM-G900J",
+            "SM-G900T",
+            "SM-G900P",
+            "SM-G900M",
+            "SM-G9006V",
+            "SM-G900I",
+            "SM-G900FQ",
+            "SM-G900N",
+            "SCL23",
+            "SC-04F",
+            "SGH-N098",
+            "SM-G900T1",
+            "SM-G900X",
+            "SM-G900R6",
+            "SM-G900R7",
+            "GT-G900MD",
+            "SM-G901F",
+            "SM-G900FG",
+            "SM-G900Z",
+            "SM-G900T3",
+            "SM-G900T4",
+            "SC-02G",
+            "SM-G870A",
+            "SM-G870F",
+            "SM-G870W",
+            "SM-G906K",
+            "SM-G906L",
+            "SM-G906S",
+            "SM-G870F0",
+            "SM-G9006L",
+            "SM-G9006D",
+            "SM-G9009M",
+            "SM-G900AZ",
+            "SM-G900FD",
+            "SM-G900MD",
+            "SM-G9001F",
+            "SM-G902L"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+    },
+    {
+        "label": "6 month gift subscription for Galaxy S6 and Galaxy S6 Edge",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SC-05G",
+            "SGH-N520",
+            "SM-G9200",
+            "SM-G9208",
+            "SM-G9209",
+            "SM-G920A",
+            "SM-G920D",
+            "SM-G920F",
+            "SM-G920FD",
+            "SM-G920FQ",
+            "SM-G920I",
+            "SM-G920ID",
+            "SM-G920K",
+            "SM-G920L",
+            "SM-G920P",
+            "SM-G920R4",
+            "SM-G920S",
+            "SM-G920T",
+            "SM-G920V",
+            "SM-G920W8",
+            "SM-G920X",
+            "SM-G920AZ",
+            "SM-G920R6",
+            "SM-G920R7",
+            "SM-G920T1",
+            "404SC",
+            "QUF",
+            "SC-04G",
+            "SCV31",
+            "SGH-N516",
+            "SGH-V504",
+            "SM-G9250",
+            "SM-G925A",
+            "SM-G925D",
+            "SM-G925F",
+            "SM-G925FQ",
+            "SM-G925I",
+            "SM-G925J",
+            "SM-G925K",
+            "SM-G925L",
+            "SM-G925P",
+            "SM-G925R4",
+            "SM-G925S",
+            "SM-G925T",
+            "SM-G925V",
+            "SM-G925W8",
+            "SM-G925X",
+            "SM-G925Z",
+            "SM-G925R6",
+            "SM-G890A",
+            "SM-G925R7",
+            "SM-S906L",
+            "SM-G928R4",
+            "SM-G928D",
+            "SM-G928G",
+            "SM-G9287C",
+            "SM-G928Z",
+            "SM-G928V",
+            "SM-G928P",
+            "SM-G928K",
+            "SM-G928S",
+            "SM-G928J",
+            "SM-G928L",
+            "SM-G928A",
+            "SM-G928X",
+            "SM-G928F",
+            "SM-G928C",
+            "SM-G928W8",
+            "SM-G928T",
+            "SM-G9280",
+            "SM-G928I",
+            "SM-G9287",
+            "SM-S906L"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      }
+    ],
+    "Default": []
+  },
+  "EU": {
+    "Offer": [
+       {
+        "label": "6 month gift subscription for Galaxy Tab S2",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-T815",
+            "SM-T815C",
+            "SM-T815M",
+            "SM-T815N0",
+            "SM-T815Y",
+            "SM-T817",
+            "SM-T817A",
+            "SM-T817R4",
+            "SM-T817T",
+            "SM-T817V",
+            "SM-T817W",
+            "SM-T715",
+            "SM-T715C",
+            "SM-T715M",
+            "SM-T715N0",
+            "SM-T715Y",
+            "SM-T810",
+            "SM-T810X",
+            "SM-T710",
+            "SM-T710X",
+            "SM-T817P",
+            "SM-T717"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Tab S 8.4 and 10.5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-T701",
+            "SM-T705",
+            "SM-T705M",
+            "SM-T705Y",
+            "SM-T705C",
+            "SM-T707A",
+            "SM-T707V",
+            "SM-T801",
+            "SM-T805",
+            "SM-T802",
+            "SM-T805M",
+            "SM-T805W",
+            "SM-T805C",
+            "SM-T805Y",
+            "SM-T807V",
+            "SM-T807P",
+            "SM-T700",
+            "SM-T800",
+            "SM-T800X",
+            "SM-T807R4",
+            "SCT21",
+            "SC-03G",
+            "SM-T557",
+            "SM-T700X",
+            "KEW",
+            "SM-T805K",
+            "SM-T805L",
+            "SM-T805S",
+            "SM-T807A",
+            "SM-T807J",
+            "SM-T807T",
+            "SM-T803"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Tab A",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-P355",
+            "SM-P355C",
+            "SM-P355M",
+            "SM-P355Y",
+            "SM-T355",
+            "SM-T355C",
+            "SM-T355Y",
+            "SM-P555",
+            "SM-P555C",
+            "SM-P555K",
+            "SM-P555L",
+            "SM-P555M",
+            "SM-P555S",
+            "SM-P555Y",
+            "SM-T555",
+            "SM-T555C",
+            "SM-T555Y",
+            "SM-P350",
+            "SM-T350",
+            "SM-T350X",
+            "SM-P550",
+            "SM-T550",
+            "SM-T550X",
+            "SM-T357T",
+            "SM-T357A",
+            "SM-T357W"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy Note 4 and Note 4 Edge",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-N915F",
+            "SM-N915J",
+            "SM-N915V",
+            "SM-N915G",
+            "SM-N915S",
+            "SM-N9150",
+            "SM-N915K",
+            "SM-N915D",
+            "SM-N915A",
+            "SM-N915X",
+            "SM-N910R4",
+            "SM-N910V",
+            "SM-N910A",
+            "SM-N910T",
+            "SM-N910P",
+            "SM-N910XC",
+            "SM-N910H",
+            "SM-N910F",
+            "SM-N910W8",
+            "SM-N910L",
+            "SM-N9108V",
+            "SM-N910K",
+            "SM-N910C",
+            "SM-N9109W",
+            "SM-N910D",
+            "SM-N910J",
+            "SM-N910S",
+            "SM-N910CQ",
+            "SGH-N382",
+            "SM-N910X",
+            "SM-N9106W",
+            "SCL24",
+            "SCH-J999",
+            "SM-N910G",
+            "SM-N9108W",
+            "SC-01G",
+            "SM-N9100",
+            "SM-N910U",
+            "SM-N910T2",
+            "SM-N910T3",
+            "SM-N915T3",
+            "SCH-N382",
+            "SM-N9106V",
+            "SM-N9109V",
+            "SM-N916K",
+            "SM-N916L",
+            "SM-N916S"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "label 6 month gift subscription for Galaxy Note 5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-N920F",
+            "SM-N920CD",
+            "SM-N920X",
+            "SM-N920T",
+            "SM-N920J",
+            "SM-N920G",
+            "SM-N9208",
+            "SM-N9209",
+            "SM-N9200",
+            "SM-N920P",
+            "SM-N920S",
+            "SM-N920V",
+            "SM-N920L",
+            "SM-N920K",
+            "SM-N920A",
+            "SM-N920R6",
+            "SM-N920R7",
+            "SM-N920D",
+            "SM-N920Z",
+            "SM-N920W8",
+            "SM-N920R4",
+            "SM-N920I",
+            "SM-N920C"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      },
+      {
+        "label": "6 month gift subscription for Galaxy S5",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SM-G900F",
+            "SM-G900H",
+            "SM-G9006W",
+            "SM-G900S",
+            "SM-G900K",
+            "SM-G900L",
+            "SM-G900D",
+            "SM-G900W8",
+            "SM-G9006",
+            "SM-G900V",
+            "SM-G900A",
+            "SM-G900R4",
+            "SM-G9009D",
+            "SM-G9009W",
+            "SM-G900HQ",
+            "SM-G900J",
+            "SM-G900T",
+            "SM-G900P",
+            "SM-G900M",
+            "SM-G9006V",
+            "SM-G900I",
+            "SM-G900FQ",
+            "SM-G900N",
+            "SCL23",
+            "SC-04F",
+            "SGH-N098",
+            "SM-G900T1",
+            "SM-G900X",
+            "SM-G900R6",
+            "SM-G900R7",
+            "GT-G900MD",
+            "SM-G901F",
+            "SM-G900FG",
+            "SM-G900Z",
+            "SM-G900T3",
+            "SM-G900T4",
+            "SC-02G",
+            "SM-G870A",
+            "SM-G870F",
+            "SM-G870W",
+            "SM-G906K",
+            "SM-G906L",
+            "SM-G906S",
+            "SM-G870F0",
+            "SM-G9006L",
+            "SM-G9006D",
+            "SM-G9009M",
+            "SM-G900AZ",
+            "SM-G900FD",
+            "SM-G900MD",
+            "SM-G9001F",
+            "SM-G902L",
+            "SM-G870F0",
+            "SM-G870D",
+            "SM-G903F",
+            "SM-G903M",
+            "SM-G903W",
+            "SM-860P"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+      }
+    },
+    {
+        "label": "6 month gift subscription for Galaxy S6 and Galaxy S6 Edge",
+        "productId": "com.economist.android.universal.onemonth.offer.samsung_001",
+        "Restrictions": {
+          "Store": [
+            "com.sec.android.app.samsungapps"
+          ],
+          "Device": [
+            "SC-05G",
+            "SGH-N520",
+            "SM-G9200",
+            "SM-G9208",
+            "SM-G9209",
+            "SM-G920A",
+            "SM-G920D",
+            "SM-G920F",
+            "SM-G920FD",
+            "SM-G920FQ",
+            "SM-G920I",
+            "SM-G920ID",
+            "SM-G920K",
+            "SM-G920L",
+            "SM-G920P",
+            "SM-G920R4",
+            "SM-G920S",
+            "SM-G920T",
+            "SM-G920V",
+            "SM-G920W8",
+            "SM-G920X",
+            "SM-G920AZ",
+            "SM-G920R6",
+            "SM-G920R7",
+            "SM-G920T1",
+            "404SC",
+            "QUF",
+            "SC-04G",
+            "SCV31",
+            "SGH-N516",
+            "SGH-V504",
+            "SM-G9250",
+            "SM-G925A",
+            "SM-G925D",
+            "SM-G925F",
+            "SM-G925FQ",
+            "SM-G925I",
+            "SM-G925J",
+            "SM-G925K",
+            "SM-G925L",
+            "SM-G925P",
+            "SM-G925R4",
+            "SM-G925S",
+            "SM-G925T",
+            "SM-G925V",
+            "SM-G925W8",
+            "SM-G925X",
+            "SM-G925Z",
+            "SM-G925R6",
+            "SM-G890A",
+            "SM-G925R7",
+            "SM-S906L",
+            "SM-G928R4",
+            "SM-G928D",
+            "SM-G928G",
+            "SM-G9287C",
+            "SM-G928Z",
+            "SM-G928V",
+            "SM-G928P",
+            "SM-G928K",
+            "SM-G928S",
+            "SM-G928J",
+            "SM-G928L",
+            "SM-G928A",
+            "SM-G928X",
+            "SM-G928F",
+            "SM-G928C",
+            "SM-G928W8",
+            "SM-G928T",
+            "SM-G9280",
+            "SM-G928I",
+            "SM-G9287",
+            "SM-S906L"
+          ],
+          "Campaign": [
+              "NO_RESTRICTION"
+          ],
+          "DeepLinking":[
+              "NO_RESTRICTION"
+          ]
+        }
+      }
+    ],
+    "Default": []
+  }
+}
+
